@@ -1,4 +1,3 @@
-```markdown
 # Allow Root Login SSH Script
 
 This script enables root login in the SSH server configuration by modifying the `sshd_config` file. Please use this script with caution, as allowing root login can have security implications. Ensure that you have strong passwords or consider using key-based authentication instead.
